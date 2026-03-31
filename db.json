@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "id": "1774944666899-2lqqoxet1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "email": "john@example.com",
+      "phone": "0712345678",
+      "password": "$2a$10$RYS/HmhuyT80/3TAz4/Pu.gyDlQa1zepkmq6ifwWE5x2mSA3OPI8S",
+      "address": "123 Main St, Nairobi",
+      "addresses": [
+        "123 Main St, Nairobi"
+      ],
+      "createdAt": "2026-03-31T08:11:07.052Z",
+      "lastActive": "2026-03-31T08:11:07.052Z",
+      "suspended": false,
+      "totalSpent": 0
+    },
+    {
+      "id": "1774944719449-iui04ueb4",
+      "firstName": "Amos",
+      "lastName": "Kipkirui",
+      "email": "amoskipkirui1927@gmail.com",
+      "phone": "0757435470",
+      "password": "$2a$10$6yxnui49OjBPfadOVFye1.o2tEs3leSuSaPtcKGonFkOz7.P3aM0W",
+      "address": "20400\n345",
+      "addresses": [
+        "20400\n345"
+      ],
+      "createdAt": "2026-03-31T08:11:59.449Z",
+      "lastActive": "2026-03-31T08:12:13.412Z",
+      "suspended": false,
+      "totalSpent": 0
+    }
+  ],
+  "orders": [],
+  "messages": [],
+  "notifications": [],
+  "expenses": [
+    {
+      "id": "1774944667053-0dig4ec2s",
+      "amount": 5000,
+      "category": "Rent",
+      "date": "2026-03-31T08:11:07.053Z",
+      "description": "Monthly rent"
+    },
+    {
+      "id": "1774944667053-elf0pldbp",
+      "amount": 2000,
+      "category": "Utilities",
+      "date": "2026-03-31T08:11:07.053Z",
+      "description": "Electricity & Water"
+    },
+    {
+      "id": "1774944667053-cee35fe59",
+      "amount": 3000,
+      "category": "Supplies",
+      "date": "2026-03-31T08:11:07.053Z",
+      "description": "Paper and ink"
+    }
+  ],
+  "pricing": {
+    "blackWhite": 5,
+    "color": 10,
+    "imagePrint": 25
+  }
+}
